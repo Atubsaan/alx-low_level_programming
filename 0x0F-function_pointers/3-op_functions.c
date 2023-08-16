@@ -1,3 +1,4 @@
+
 #include "3-calc.h"
 
 
@@ -63,6 +64,7 @@
 	{
 		return (a % b);
 	}
+
 
 
 
